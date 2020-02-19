@@ -1,0 +1,11 @@
+*, :after, :before {
+  box-sizing: border-box;
+}
+
+body {
+  background: #f7f7f7;
+}
+
+.app {
+  padding-top: 100px;
+}
